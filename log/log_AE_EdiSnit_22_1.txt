@@ -1,0 +1,283 @@
+====================
+AE_EdiSnit_22_1 Date: Thu Jun 02 2022 23:00:15 GMT+0300
+ getRandomInt: 7
+ getRandomInt: 1
+ getRandomInt: 1
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 0
+ genXml: <Stuff>
+  <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_EdiSnit\\xml\\ae_EdiSnitk_22a_2.xml</pathRrXml>
+</Stuff>
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_EdiSnit\\xml\\ae_EdiSnitk_22a_2.xml
+ myXml: <Stuff>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/220531_2-1.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331_5.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331_6.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331_7.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331_8.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331_9.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331_10.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331_11.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/10003249_636601619728133_1638621596_ns-Enhanced.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/lcPODKv5--00%20-%20%d0%a1%d0%bd%d0%b8%d1%82%d0%ba%d0%be%d0%b2%d1%81%d0%ba%d0%b8%d0%b9s-3b.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/(33)-1.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/281106_408879299167034_1337164337_os.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/264990_10150232912981893_8133273_ns.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/%20(22).jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/%20(15).jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/NatEd_Israel/DSC_0185.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/NatEd_Israel/DSC_0180.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/18155991_10212535445278493_6891741798077497170_os.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/117644615_10221391603653164_1949479458031261910_ns.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/107664840_10221114878615211_6796120659912530026_ns.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/52078_409681669086797_189759480_os-Enhanced.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/220531_2-1.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331_5.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331_6.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331_7.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331_8.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331_9.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331_10.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/2205331_11.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/10003249_636601619728133_1638621596_ns-Enhanced.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/lcPODKv5--00%20-%20%d0%a1%d0%bd%d0%b8%d1%82%d0%ba%d0%be%d0%b2%d1%81%d0%ba%d0%b8%d0%b9s-3b.psd</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Nat_Snitkovskaya/Snitkovskie/2022/spr/(33)-1.psd</pathurl>
+</Stuff>
+filePathUrl.length= 34
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+ i= 1  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\220531_2-1.psd
+!! Not found findItem 
+ i= 2  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331.psd
+!! Not found findItem 
+ i= 3  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331_5.psd
+!! Not found findItem 
+ i= 4  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331_6.psd
+!! Not found findItem 
+ i= 5  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331_7.psd
+!! Not found findItem 
+ i= 6  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331_8.psd
+!! Not found findItem 
+ i= 7  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331_9.psd
+!! Not found findItem 
+ i= 8  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331_10.psd
+!! Not found findItem 
+ i= 9  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331_11.psd
+!! Not found findItem 
+ i= 10  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\10003249_636601619728133_1638621596_ns-Enhanced.psd
+!! Not found findItem 
+ i= 11  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\lcPODKv5--00%20-%20%d0%a1%d0%bd%d0%b8%d1%82%d0%ba%d0%be%d0%b2%d1%81%d0%ba%d0%b8%d0%b9s-3b.psd
+!! Not found findItem 
+ i= 12  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\(33)-1.psd
+!! Not found findItem 
+ i= 13  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\281106_408879299167034_1337164337_os.jpeg
+!! Not found findItem 
+ i= 14  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\264990_10150232912981893_8133273_ns.jpeg
+!! Not found findItem 
+ i= 15  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\%20(22).jpeg
+!! Not found findItem 
+ i= 16  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\%20(15).jpeg
+!! Not found findItem 
+ i= 17  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\NatEd_Israel\\DSC_0185.jpg
+!! Not found findItem 
+ i= 18  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\NatEd_Israel\\DSC_0180.jpg
+!! Not found findItem 
+ i= 19  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\18155991_10212535445278493_6891741798077497170_os.jpeg
+!! Not found findItem 
+ i= 20  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\117644615_10221391603653164_1949479458031261910_ns.jpeg
+!! Not found findItem 
+ i= 21  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\107664840_10221114878615211_6796120659912530026_ns.jpeg
+!! Not found findItem 
+ i= 22  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\52078_409681669086797_189759480_os-Enhanced.psd
+!! Not found findItem 
+ i= 23  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\220531_2-1.psd
+!! Not found findItem 
+ i= 24  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331.psd
+!! Not found findItem 
+ i= 25  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331_5.psd
+!! Not found findItem 
+ i= 26  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331_6.psd
+!! Not found findItem 
+ i= 27  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331_7.psd
+!! Not found findItem 
+ i= 28  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331_8.psd
+!! Not found findItem 
+ i= 29  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331_9.psd
+!! Not found findItem 
+ i= 30  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331_10.psd
+!! Not found findItem 
+ i= 31  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\2205331_11.psd
+!! Not found findItem 
+ i= 32  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\10003249_636601619728133_1638621596_ns-Enhanced.psd
+!! Not found findItem 
+ i= 33  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\lcPODKv5--00%20-%20%d0%a1%d0%bd%d0%b8%d1%82%d0%ba%d0%be%d0%b2%d1%81%d0%ba%d0%b8%d0%b9s-3b.psd
+!! Not found findItem 
+ i= 34  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Nat_Snitkovskaya\\Snitkovskie\\2022\\spr\\(33)-1.psd
+!! Not found findItem 
+ genXml: <Stuff>
+  <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_EdiSnit\\xml\\ae_EdiSnitk_22b_2.xml</pathRrXml>
+</Stuff>
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_EdiSnit\\xml\\ae_EdiSnitk_22b_2.xml
+ myXml: <Stuff>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/5eb6e31b1c84bd13bc8eb8253ea3f235.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/fd8d9f0-photo1651555754.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/lugansk_building.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/1601552180.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/instagram%20com%20%20severodonetsk_.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/02-48.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/f3893c3-severodoneck690.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/_124949474_5f936a43-6132-472d-bf4b-7e4e2aa93a9b.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/f5cbfe6964f9eac9f5de165b71dfa347.webp</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/edc13e1-gettyimages-1239786536.png</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/2c5215c0-1fa5b5c2a9214f29e4490d93e75b527a.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/thumbnail-tw-20220507045414-1777.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/color_17color_.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/color_26color_.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/color_12color_.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/censor_news_middle8.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/sd96.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/1040_or.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/color_24color_.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/images%20(1).jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/%d0%a1%d0%95%d0%92%d0%95%d0%a0%d0%9e%d0%94%d0%9e%d0%9d%d0%95%d0%a6%d0%9a%d0%98%d0%99_%d0%a2%d0%a0%d0%9e%d0%9b%d0%9b%d0%95%d0%99%d0%91%d0%a3%d0%a1.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/3YaxZCMHTPl3UyLwIPFzVqPTlUesIsNrZaAAINDc.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/ah0IpdpQcpfQrpU9OHOjZCCGxo2sRzfFNbLTyBPx.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/AMriRAdvwHPo6MoDiy6CYFhUrhbkl1gB4CkMhtls.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/lPW5ATZistJgvNsraAb15LYfWlQfUH6VMBQxxWXX.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/kps4YPL1vduynz2OAvrXJzDCAwEAXpzFwhOfuJsL.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/color_28color_.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/color_22color_.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/color_21color_.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/color_20color_.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/color_10color_.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/color_9color_.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/color_3color_.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Pictures/Photo/Nature/Severodonetsk/color_1color_.jpg</pathurl>
+</Stuff>
+filePathUrl.length= 34
+filePathUrlB.length= 34
+ i= 1  filePathUrl=>  E:\\Pictures\\Photo\\Nature\\Severodonetsk\\5eb6e31b1c84bd13bc8eb8253ea3f235.jpg
+ i= 1  filePathUrlA=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\5eb6e31b1c84bd13bc8eb8253ea3f235.jpg
+ i= 1  filePathUrlB=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\5eb6e31b1c84bd13bc8eb8253ea3f235.jpg
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+lenMin= 34
+ i= 1  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\5eb6e31b1c84bd13bc8eb8253ea3f235.jpg
+0 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/5eb6e31b1c84bd13bc8eb8253ea3f235.jpg
+0 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/5eb6e31b1c84bd13bc8eb8253ea3f235.jpg
+ i= 2  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\fd8d9f0-photo1651555754.jpg
+1 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/fd8d9f0-photo1651555754.jpg
+1 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/fd8d9f0-photo1651555754.jpg
+ i= 3  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\lugansk_building.jpeg
+2 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/lugansk_building.jpeg
+2 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/lugansk_building.jpeg
+ i= 4  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\1601552180.jpg
+3 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/1601552180.jpg
+3 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/1601552180.jpg
+ i= 5  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\instagram%20com%20%20severodonetsk_.jpg
+4 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/instagram%20com%20%20severodonetsk_.jpg
+4 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/instagram%20com%20%20severodonetsk_.jpg
+ i= 6  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\02-48.jpg
+5 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/02-48.jpg
+5 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/02-48.jpg
+ i= 7  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\f3893c3-severodoneck690.jpg
+6 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/f3893c3-severodoneck690.jpg
+6 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/f3893c3-severodoneck690.jpg
+ i= 8  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\_124949474_5f936a43-6132-472d-bf4b-7e4e2aa93a9b.jpg
+7 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/_124949474_5f936a43-6132-472d-bf4b-7e4e2aa93a9b.jpg
+7 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/_124949474_5f936a43-6132-472d-bf4b-7e4e2aa93a9b.jpg
+ i= 9  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\f5cbfe6964f9eac9f5de165b71dfa347.webp
+8 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/f5cbfe6964f9eac9f5de165b71dfa347.webp
+8 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/f5cbfe6964f9eac9f5de165b71dfa347.webp
+ i= 10  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\edc13e1-gettyimages-1239786536.png
+9 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/edc13e1-gettyimages-1239786536.png
+9 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/edc13e1-gettyimages-1239786536.png
+ i= 11  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\2c5215c0-1fa5b5c2a9214f29e4490d93e75b527a.jpg
+10 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/2c5215c0-1fa5b5c2a9214f29e4490d93e75b527a.jpg
+10 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/2c5215c0-1fa5b5c2a9214f29e4490d93e75b527a.jpg
+ i= 12  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\thumbnail-tw-20220507045414-1777.jpg
+11 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/thumbnail-tw-20220507045414-1777.jpg
+11 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/thumbnail-tw-20220507045414-1777.jpg
+ i= 13  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\color_17color_.jpg
+12 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/color_17color_.jpg
+12 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/color_17color_.jpg
+ i= 14  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\color_26color_.jpg
+13 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/color_26color_.jpg
+13 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/color_26color_.jpg
+ i= 15  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\color_12color_.jpg
+14 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/color_12color_.jpg
+14 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/color_12color_.jpg
+ i= 16  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\censor_news_middle8.jpg
+15 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/censor_news_middle8.jpg
+15 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/censor_news_middle8.jpg
+ i= 17  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\sd96.jpg
+16 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/sd96.jpg
+16 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/sd96.jpg
+ i= 18  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\1040_or.jpg
+17 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/1040_or.jpg
+17 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/1040_or.jpg
+ i= 19  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\color_24color_.jpg
+18 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/color_24color_.jpg
+18 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/color_24color_.jpg
+ i= 20  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\images%20(1).jpeg
+19 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/images%20(1).jpeg
+19 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/images%20(1).jpeg
+ i= 21  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\%d0%a1%d0%95%d0%92%d0%95%d0%a0%d0%9e%d0%94%d0%9e%d0%9d%d0%95%d0%a6%d0%9a%d0%98%d0%99_%d0%a2%d0%a0%d0%9e%d0%9b%d0%9b%d0%95%d0%99%d0%91%d0%a3%d0%a1.jpg
+20 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/%D0%A1%D0%95%D0%92%D0%95%D0%A0%D0%9E%D0%94%D0%9E%D0%9D%D0%95%D0%A6%D0%9A%D0%98%D0%99_%D0%A2%D0%A0%D0%9E%D0%9B%D0%9B%D0%95%D0%99%D0%91%D0%A3%D0%A1.jpg
+20 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/%D0%A1%D0%95%D0%92%D0%95%D0%A0%D0%9E%D0%94%D0%9E%D0%9D%D0%95%D0%A6%D0%9A%D0%98%D0%99_%D0%A2%D0%A0%D0%9E%D0%9B%D0%9B%D0%95%D0%99%D0%91%D0%A3%D0%A1.jpg
+ i= 22  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\3YaxZCMHTPl3UyLwIPFzVqPTlUesIsNrZaAAINDc.jpeg
+21 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/3YaxZCMHTPl3UyLwIPFzVqPTlUesIsNrZaAAINDc.jpeg
+21 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/3YaxZCMHTPl3UyLwIPFzVqPTlUesIsNrZaAAINDc.jpeg
+ i= 23  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\ah0IpdpQcpfQrpU9OHOjZCCGxo2sRzfFNbLTyBPx.jpeg
+22 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/ah0IpdpQcpfQrpU9OHOjZCCGxo2sRzfFNbLTyBPx.jpeg
+22 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/ah0IpdpQcpfQrpU9OHOjZCCGxo2sRzfFNbLTyBPx.jpeg
+ i= 24  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\AMriRAdvwHPo6MoDiy6CYFhUrhbkl1gB4CkMhtls.jpeg
+23 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/AMriRAdvwHPo6MoDiy6CYFhUrhbkl1gB4CkMhtls.jpeg
+23 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/AMriRAdvwHPo6MoDiy6CYFhUrhbkl1gB4CkMhtls.jpeg
+ i= 25  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\lPW5ATZistJgvNsraAb15LYfWlQfUH6VMBQxxWXX.jpeg
+24 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/lPW5ATZistJgvNsraAb15LYfWlQfUH6VMBQxxWXX.jpeg
+24 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/lPW5ATZistJgvNsraAb15LYfWlQfUH6VMBQxxWXX.jpeg
+ i= 26  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\kps4YPL1vduynz2OAvrXJzDCAwEAXpzFwhOfuJsL.jpeg
+25 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/kps4YPL1vduynz2OAvrXJzDCAwEAXpzFwhOfuJsL.jpeg
+25 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/kps4YPL1vduynz2OAvrXJzDCAwEAXpzFwhOfuJsL.jpeg
+ i= 27  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\color_28color_.jpg
+26 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/color_28color_.jpg
+26 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/color_28color_.jpg
+ i= 28  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\color_22color_.jpg
+27 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/color_22color_.jpg
+27 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/color_22color_.jpg
+ i= 29  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\color_21color_.jpg
+28 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/color_21color_.jpg
+28 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/color_21color_.jpg
+ i= 30  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\color_20color_.jpg
+29 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/color_20color_.jpg
+29 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/color_20color_.jpg
+ i= 31  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\color_10color_.jpg
+30 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/color_10color_.jpg
+30 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/color_10color_.jpg
+ i= 32  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\color_9color_.jpg
+31 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/color_9color_.jpg
+31 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/color_9color_.jpg
+ i= 33  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\color_3color_.jpg
+32 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/color_3color_.jpg
+32 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/color_3color_.jpg
+ i= 34  filePathUrl=> E:\\Pictures\\Photo\\Nature\\Severodonetsk\\color_1color_.jpg
+33 videoFile= /e/Pictures/Photo/Nature/Severodonetsk/color_1color_.jpg
+33 videoFileB= /e/Pictures/Photo/Nature/Severodonetsk/color_1color_.jpg
+compFinalName= aeFinalEdiSnitkAllAB_1
+compWidth= 3840
+compHeight= 2160
+durationSec= 5
+filePathUrl.length= 34
+filePathUrl.length*durationSec= 170
+====================

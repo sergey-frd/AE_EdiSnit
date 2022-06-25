@@ -1,0 +1,9 @@
+====================
+AE_EdiSnit_22_1c Date: Thu Jun 02 2022 16:46:30 GMT+0300
+ getRandomInt: 5
+ getRandomInt: 2
+ getRandomInt: 6
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 0
+====================
